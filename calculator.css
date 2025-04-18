@@ -68,4 +68,5 @@ body{
     border-radius: 10px;
     border: none;
     box-shadow: 0 5px 0 lightblue;
+    cursor: alias;
 }
